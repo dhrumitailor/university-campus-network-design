@@ -1,0 +1,41 @@
+
+## Getting Started
+
+### Requirements
+
+- Cisco Packet Tracer (latest version recommended)
+
+### How to Run
+
+1. Download the repository.
+2. Open `University_campus.pkt` using Cisco Packet Tracer.
+3. Start the simulation.
+4. Verify connectivity using ping and other network testing tools.
+
+## Learning Objectives
+
+This project demonstrates:
+
+- Network topology design
+- VLAN implementation
+- Inter-VLAN communication
+- Routing and switching concepts
+- Campus network planning
+- Network simulation and testing
+
+## Future Improvements
+
+- Wireless network integration
+- Network security policies
+- DHCP and DNS services
+- Server deployment
+- Redundancy and failover mechanisms
+
+## Author
+- Dhrumi
+
+Created as a networking and infrastructure design project using Cisco Packet Tracer.
+
+## License
+
+This project is intended for educational and learning purposes.
